@@ -1,3 +1,10 @@
+/******************************************************
+ * File         :   FileWriterDemo.java
+ * Description  :   Program to write string to a file
+ * Author       :   Sarju S
+ * Version      :   1.0
+ * Date         :   20/11/2023
+ * ***************************************************/
 import java.io.FileWriter;
 import java.io.IOException;
 
