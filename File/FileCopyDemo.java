@@ -1,3 +1,10 @@
+/******************************************************
+ * File         :   FileCopyDemo.java
+ * Description  :   Program to copy the data from one file to another
+ * Author       :   Sarju S
+ * Version      :   1.0
+ * Date         :   20/11/2023
+ * ***************************************************/
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
