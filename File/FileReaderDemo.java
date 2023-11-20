@@ -1,3 +1,10 @@
+/******************************************************
+ * File         :   FileReaderDemo.java
+ * Description  :   Program to read the contents from a file
+ * Author       :   Sarju S
+ * Version      :   1.0
+ * Date         :   20/11/2023
+ * ***************************************************/
 import java.io.FileReader;
 import java.io.IOException;
 
