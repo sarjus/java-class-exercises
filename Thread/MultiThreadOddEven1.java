@@ -1,9 +1,11 @@
+/* Write a Java program that creates three threads. First thread generates a random
+positive number (>1) every 1 second. If the number is even, the second thread
+prints all even numbers between 1 and the generated number. If the number is
+odd, the third thread will print all odd numbers between 1 and the generated
+number.*/
+
 package sjcet.s3.practise;
-
 import java.util.Random;
-
-
-
 
 class NumberManager {
     private int generatedNumber;
